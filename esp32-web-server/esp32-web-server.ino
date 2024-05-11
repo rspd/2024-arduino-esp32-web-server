@@ -10,9 +10,10 @@
 
 #include <WiFi.h>
 #include <ESPAsyncWebServer.h>
+#include "defines.h"
 
-const char* ssid = "";      // CHANGE IT
-const char* password = "";  // CHANGE IT
+const char* ssid = SSID;
+const char* password = PASS;
 
 AsyncWebServer server(80);
 
