@@ -2,12 +2,16 @@
  * ESP32 Web Server
  *
  * Libraries:
- * + WiFi                    2.0.0
- * + ESPAsyncWebServer       3.1.0
- * + FS                      2.0.0
- * + AsyncTCP                1.1.4
- * + DHT sensor library      1.4.6
- * + Adafruit Unified Sensor 1.1.14
+ * WiFi                    2.0.0   C:\Users\<name>\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.17\libraries\WiFi
+ * ESPAsyncWebServer       3.1.0   C:\Users\<name>\Documents\Arduino\libraries\ESPAsyncWebServer
+ * FS                      2.0.0   C:\Users\<name>\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.17\libraries\FS
+ * AsyncTCP                1.1.4   C:\Users\<name>\Documents\Arduino\libraries\AsyncTCP
+ * DHT sensor library      1.4.6   C:\Users\<name>\Documents\Arduino\libraries\DHT_sensor_library
+ * Adafruit Unified Sensor 1.1.14  C:\Users\<name>\Documents\Arduino\libraries\Adafruit_Unified_Sensor
+ *
+ * Board Packages Used:
+ * Arduino ESP32 Boards    2.0.13  NodeMCU-32S
+ * ESP32 by Espressif      2.0.17  ..Arduino15\packages\esp32\hardware\esp32\2.0.17\...
  *
  * Links:
  * - Implementing Web Server on ESP32
